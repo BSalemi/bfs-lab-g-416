@@ -6,6 +6,6 @@ function findAdjacent(){
 
 }
 
-function markDistanceAndPredecessor(){
+function markDistanceAndPredecessor(predecessor, adjacentNodes){
 
 }
