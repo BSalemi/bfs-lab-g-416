@@ -21,3 +21,9 @@ function markDistanceAndPredecessor(predecessor, adjacentNodes){
     node.predecessor = predecessor
   })
 }
+
+function findNode(nodeName, vertices){
+  return vertices.find((vertex) => {
+    return vertex.name == nodeName
+  })
+}
