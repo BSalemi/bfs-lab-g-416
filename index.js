@@ -2,7 +2,7 @@ function bfs(rootNode, vertices, edges){
 
 }
 
-function findAdjacent(){
+function findAdjacent(nodeName, vertices, edges){
 
 }
 
